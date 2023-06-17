@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Phoenix_7_KD.mk
+    $(LOCAL_DIR)/twrp_Phoenix_7_KD.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Phoenix_7_KD-user \
-    omni_Phoenix_7_KD-userdebug \
-    omni_Phoenix_7_KD-eng
+    twrp_Phoenix_7_KD-user \
+    twrp_Phoenix_7_KD-userdebug \
+    twrp_Phoenix_7_KD-eng

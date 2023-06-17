@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_Phoenix_7_KD-user
-add_lunch_combo omni_Phoenix_7_KD-userdebug
-add_lunch_combo omni_Phoenix_7_KD-eng
+add_lunch_combo twrp_Phoenix_7_KD-user
+add_lunch_combo twrp_Phoenix_7_KD-userdebug
+add_lunch_combo twrp_Phoenix_7_KD-eng
